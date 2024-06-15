@@ -1,0 +1,12 @@
+C:\Users\lakshmi.m\source\repos\EmployeeConsoleADO\Models\bin\Debug\net8.0\EmployeeConsoleADO.Models.deps.json
+C:\Users\lakshmi.m\source\repos\EmployeeConsoleADO\Models\bin\Debug\net8.0\EmployeeConsoleADO.Models.dll
+C:\Users\lakshmi.m\source\repos\EmployeeConsoleADO\Models\bin\Debug\net8.0\EmployeeConsoleADO.Models.pdb
+C:\Users\lakshmi.m\source\repos\EmployeeConsoleADO\Models\obj\Debug\net8.0\EmployeeConsoleADO.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lakshmi.m\source\repos\EmployeeConsoleADO\Models\obj\Debug\net8.0\EmployeeConsoleADO.Models.AssemblyInfoInputs.cache
+C:\Users\lakshmi.m\source\repos\EmployeeConsoleADO\Models\obj\Debug\net8.0\EmployeeConsoleADO.Models.AssemblyInfo.cs
+C:\Users\lakshmi.m\source\repos\EmployeeConsoleADO\Models\obj\Debug\net8.0\EmployeeConsoleADO.Models.csproj.CoreCompileInputs.cache
+C:\Users\lakshmi.m\source\repos\EmployeeConsoleADO\Models\obj\Debug\net8.0\EmployeeConsoleADO.Models.sourcelink.json
+C:\Users\lakshmi.m\source\repos\EmployeeConsoleADO\Models\obj\Debug\net8.0\EmployeeConsoleADO.Models.dll
+C:\Users\lakshmi.m\source\repos\EmployeeConsoleADO\Models\obj\Debug\net8.0\refint\EmployeeConsoleADO.Models.dll
+C:\Users\lakshmi.m\source\repos\EmployeeConsoleADO\Models\obj\Debug\net8.0\EmployeeConsoleADO.Models.pdb
+C:\Users\lakshmi.m\source\repos\EmployeeConsoleADO\Models\obj\Debug\net8.0\ref\EmployeeConsoleADO.Models.dll
